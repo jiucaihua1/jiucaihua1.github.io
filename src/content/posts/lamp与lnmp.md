@@ -1,7 +1,7 @@
 ---
 author: jiucaihua1
 pubDatetime: 2026-05-14T09:43:59+08:00
-title: "概念"
+title: "LAMP与LNMP"
 slug: lamp与lnmp
 featured: false
 draft: false
@@ -9,6 +9,7 @@ tags:
   - 随笔
 description: "在 LAMP 架构中，Web 服务器是 **Apache**。"
 ---
+# 概念
 - **L (Linux):** 宿主操作系统。它提供底层的文件系统、网络协议栈以及进程调度环境（例如你在练习中常用的 Ubuntu 或 CentOS）。
  
 - **M (MySQL):** 关系型数据库管理系统（RDBMS）。负责结构化数据的持久化存储、查询与事务处理。
