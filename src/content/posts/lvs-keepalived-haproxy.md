@@ -4,7 +4,7 @@ pubDatetime: 2026-05-13T15:18:30+08:00
 title: "LVS+Keepalived+HAproxy"
 slug: lvs-keepalived-haproxy
 featured: false
-draft: true
+draft: false
 tags:
   - 随笔
 description: "在构建应对千万级甚至亿级日均 PV 的大型网站时，底层架构的演进是保障高可用和高性能的核心。针对高并发场景，业界标准解决方案主要围绕“横向扩容（Scale Out）”思想，并依托 LVS（Linux Virtual Server）构建高性能"
